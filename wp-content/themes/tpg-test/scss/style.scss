@@ -1,0 +1,142 @@
+/*
+Theme Name: TPG-Test
+Author: Eric Andrew Lewis
+Author URI: https://wordpress.org/
+Version: 0.1
+*/
+/*
+ * Title:   ListQ - Directory & Listing - HTML Template
+ * Author:  QTC Media
+ */
+
+/*----------------------
+    Third-party CSS
+------------------------*/
+
+// @import "bootstrap.min";
+// @import "../plugins/font-awesome-4.7/css/font-awesome.min";
+// @import "../plugins/jquery-ui-1.12.1/jquery-ui.min";
+// @import "animate.min";
+// @import "normalize.css";
+
+/*----------------------
+    Google Font
+------------------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900');
+
+/*----------------------
+    Reset CSS
+------------------------*/
+
+@import "reset";
+
+/*----------------------
+    Variables
+------------------------*/
+
+@import "variables";
+
+/*----------------------
+    Mimin
+------------------------*/
+
+@import "mimin";
+
+/*----------------------
+    Global
+------------------------*/
+
+@import "global";
+
+/*----------------------
+    Header
+------------------------*/
+
+@import "header";
+
+/*----------------------
+    Footer
+------------------------*/
+
+@import "footer";
+
+/*----------------------
+    Home V1
+------------------------*/
+
+@import "index";
+
+/*----------------------
+    Home V2
+------------------------*/
+
+@import "index-2";
+
+/*----------------------
+    Home V3
+------------------------*/
+
+@import "index-3";
+
+/*----------------------
+    Home V4
+------------------------*/
+
+@import "index-4";
+
+/*----------------------
+    Home V5
+------------------------*/
+
+@import "index-5";
+
+/*----------------------
+    Home V6
+------------------------*/
+@import "index-6";
+
+/*----------------------
+    Pricing
+------------------------*/
+@import "pricing";
+
+/*----------------------
+    Add Your Listing
+------------------------*/
+@import "add-your-listing";
+
+/*----------------------
+    Listing Detail
+------------------------*/
+@import "listing-detail";
+
+/*----------------------
+    Blog Detail
+------------------------*/
+@import "blog-detail";
+
+/*----------------------
+    Shop
+------------------------*/
+@import "shop";
+
+/*----------------------
+    Contact
+------------------------*/
+@import "contact";
+
+/*----------------------
+    About
+------------------------*/
+@import "about";
+
+/*----------------------
+    404
+------------------------*/
+@import "404";
+
+/*----------------------
+    Responsive
+------------------------*/
+@import "responsive";
